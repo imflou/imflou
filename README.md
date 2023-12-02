@@ -1,13 +1,5 @@
 # Hi there 👋, My name is flou
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on my life</p>
-<p>👯 I want to collaborate on ur mum</p>
-<p>🙏 I'm looking for help with my life</p>
-<p>🌱 I'm currently learning how to get bitches</p>
-<p>💬 Ask me about my hobbies</p>
-<p>📫 How to reach me? don't</p>
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
